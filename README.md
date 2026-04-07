@@ -1,6 +1,11 @@
-# lead-gen-pro
-# Lead Generation System
+# Lead Generation Pro System
 
-## Run:
+## Install
 pip install -r requirements.txt
+
+## Run
 python main.py
+
+## Output
+- data/leads.csv
+- data/map.html
